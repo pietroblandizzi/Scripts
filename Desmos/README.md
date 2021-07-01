@@ -43,9 +43,9 @@ But i would say 1h is good enough
 Note in this guide i will use tmux please look here for a list of commands: [Tmux](https://tmuxcheatsheet.com/)
 
 1. Move the script on the server where your node is running
-2. Give the script the execution rights: `chmod +x Delegate.sh`
+2. Give the script the execution rights: `chmod +x delegate.sh`
 3. Create a tmux session ` tmux new -s stakingBot` 
-4. Inside the session run the script: `./Delegate.sh`
+4. Inside the session run the script: `./delegate.sh`
 The script will ask for your wallet password. Dont worry it will not show on the screen.
 
 Let it run!
